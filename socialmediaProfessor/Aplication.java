@@ -1,4 +1,4 @@
-package socialmedia;
+package socialmediaProfessor;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

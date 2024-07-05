@@ -1,4 +1,4 @@
-package redeSocial;
+package redeSocialGabriel;
 
 public class Comment {
 		private String text;

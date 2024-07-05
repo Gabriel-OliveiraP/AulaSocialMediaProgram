@@ -1,4 +1,4 @@
-package socialmedia;
+package socialmediaProfessor;
 
 public class Comment {
 	
